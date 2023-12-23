@@ -3,7 +3,7 @@
 ![Logo AluGames](img/logo.svg)
 
 ## Link Para Acessar 
-
+>https://alugames-psi.vercel.app<
 
 ## Bem-vindo ao AluGames
 
